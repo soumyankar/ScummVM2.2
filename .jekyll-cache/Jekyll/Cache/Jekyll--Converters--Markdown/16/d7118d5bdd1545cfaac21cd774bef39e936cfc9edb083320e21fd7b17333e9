@@ -1,0 +1,25 @@
+I"Þ<h1 id="playing-games">Playing Games</h1>
+
+<p>Step-by-step guide to show how to run a game from the ScummVM Launcher.</p>
+
+<ul>
+  <li>Running a game from the launcher</li>
+  <li>Screenshot</li>
+</ul>
+
+<h3 id="running-scummvm-from-command-line">Running ScummVM from command line</h3>
+<p>The simplest way to run a game from the command line is to type:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>scummvm samnmax
+</code></pre></div></div>
+<p>TODO</p>
+
+<ul>
+  <li>Check Additional Command Line Options(link)</li>
+  <li>Check Controls(link)</li>
+  <li>Check Hotkeys(link)</li>
+  <li>Check Game specific instructions(link)</li>
+</ul>
+
+<h2 id="copy-protection">Copy Protection</h2>
+:ET

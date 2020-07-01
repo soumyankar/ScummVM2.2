@@ -1,0 +1,51 @@
+I"�
+<h1 class="fs-9" id="introduction">Introduction</h1>
+
+<p>I’m not gonna to use 2020 as an excuse to stop my growth. I want to indulge myself with like-minded people and be a part of something bigger than myself.</p>
+
+<p class="fs-4 fw-300">Although I may not belong in the generation of the Macintosh, I do belong in the gaming community. I share the sentiment behind the creation of such a software, and I would like to make it better.</p>
+
+<p><a href="https://drive.google.com/file/d/1pgNlW8CYuyPFPKAKHLuQCpQ95a9SmOTu/view?usp=sharing" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2">Profile</a> <a href="http://wiki.compilgames.net/doku.php/gdevelop5/tutorials/fire-and-ice/start" class="btn fs-5 mb-4 mb-md-0">Previous Work</a></p>
+
+<hr />
+
+<h2 id="scummvm---launching-a-new-documentation-portal">ScummVM - Launching a new documentation portal</h2>
+
+<p>The current state of the user documentation is rather faulty. ScummVM’s audience targets an amateur audience as well as the computer geeks. This makes the user facing docs as the top priority. For this project, simplicity should be a major goal. Documentation should be concise, incisive and to the point. Information is plentiful, but lacks a touch of professionalism. The approach will focus heavily of collecting, restructing, and organising.</p>
+
+<p>The proposal first discusses about the shortcomings of the documentation and how to tackle it. Further, it presents sitemaps,layouts and write-up snippets to provide a sneak-peek to the new documentation portal. The user readability has been given paramount importance by using a friendly, yet informative attitude.</p>
+
+<hr />
+
+<h3 id="analysis">Analysis</h3>
+
+<p>ScummVM’s documentation has a variety of issues. Discussed as below:</p>
+<ol>
+  <li>Readability
+    <ul>
+      <li>Information is <strong>scattered</strong> and <strong>dissipated</strong> - Information is dispersed among mutltiple sources of documentation. This makes the reader go through a lot of hassle trying to find instructions.</li>
+    </ul>
+  </li>
+  <li>Navigation
+    <ul>
+      <li><strong>Poor documentation structure</strong>. Information is abundant, but lacks a concrete catalogue. What good is the gold that cannot be mined?</li>
+    </ul>
+  </li>
+  <li>Redundancy
+    <ul>
+      <li><strong>Multiple instances</strong> exist for the same documentation. This leads to confusion among users and they might feel lost trying to figure what’s best for them.</li>
+    </ul>
+  </li>
+  <li>Highlighting
+    <ul>
+      <li>ScummVM documentation has a plethora of <strong>amazing functionalities that never make it to the reader’s eyes</strong>. ScummVM’s features require better documenting and showcasing.</li>
+    </ul>
+  </li>
+</ol>
+
+<ul>
+  <li><a href="/solution">Read Solution</a></li>
+</ul>
+
+<hr />
+:ET

@@ -1,0 +1,10 @@
+I"<h1 id="graphics-filters">Graphics Filters</h1>
+
+<p>ScummVM offers several anti-aliasing filters to attempt to improve visual quality.</p>
+
+<ol>
+  <li>The different scale factors and what they do.</li>
+  <li>Command line option.</li>
+  <li>Notes.</li>
+</ol>
+:ET

@@ -1,0 +1,21 @@
+I"w<h1 id="save-files">Save Files</h1>
+
+<p>Save Files are by default put in the current directory on some platforms and oreset directories on others. You can specift the save ub the config file by setting the savepath parameter.</p>
+
+<p>Platforms that currently have a differnet default directory are:</p>
+<ul>
+  <li>Mac OS X</li>
+  <li>Windows Vista</li>
+  <li>..and others.</li>
+</ul>
+
+<h2 id="autosaves">Autosaves</h2>
+<p>TODO</p>
+
+<h2 id="converting-saved-games">Converting Saved Games</h2>
+<p>TODO</p>
+
+<h2 id="viewingloading-saved-games-from-the-command-line">Viewing/Loading saved games from the command line</h2>
+<p>TODO</p>
+
+:ET

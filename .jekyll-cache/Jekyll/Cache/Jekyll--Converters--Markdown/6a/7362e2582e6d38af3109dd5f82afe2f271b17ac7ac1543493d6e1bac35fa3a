@@ -1,0 +1,14 @@
+I"<h1 id="introduction">Introduction</h1>
+<p>ScummVM is a program which lets you run classic graphical point-and-click adventure games and role-playing games back from the ’80s!
+ScummVM supports a huge library of adventures with over 250 games in total! Some of these games include - <em>Monkey Island</em> series, <em>Broken Sword</em> , <em>Myst</em>, <em>Blade Runner</em>.</p>
+
+<p>ScummVM is special in it’s own way. ScummVM allows you to play these games on systems for which they were never designed. All you have to do is install the software, find your old CDs and run the application. It’s as easy as it sounds. Among the systems on which you can play are regular desktop computers(Windows, Linux, Mac OSX), game consoles, smartphones and more.</p>
+
+<p>ScummVM has a stable release and provides active support for a plethora of games. ScummVM is even being used commercially to re-release some of the supported games on modern platforms. This goes to show that several companies are happy with the quality of the software and how well it can run some of the games.</p>
+
+<hr />
+<p>Get going with the <a href="/docs/ScummVM%202.0/Getting%20Started/installation.html">Quick Start Guide</a></p>
+
+<p>You can find a full list of supported platforms and games on this <a href="some_link">page</a>.</p>
+
+:ET

@@ -1,0 +1,434 @@
+{"0": {
+    "doc": "Ending Notes",
+    "title": "Ending Notes",
+    "content": " ",
+    "url": "http://localhost:4000/notes/",
+    "relUrl": "/notes/"
+  },"1": {
+    "doc": "Advanced Guides",
+    "title": "Advanced Guides",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/advanced-guides.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/advanced-guides.html"
+  },"2": {
+    "doc": "Amiga OS4",
+    "title": "Amiga OS4",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/amiga-os4.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/amiga-os4.html"
+  },"3": {
+    "doc": "Atari",
+    "title": "Atari",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/atari.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/atari.html"
+  },"4": {
+    "doc": "BeOS",
+    "title": "BeOS",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/beos.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/beos.html"
+  },"5": {
+    "doc": "Changelog",
+    "title": "Changelog",
+    "content": "TODO . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Getting%20Help/changelog.html",
+    "relUrl": "/docs/ScummVM%202.0/Getting%20Help/changelog.html"
+  },"6": {
+    "doc": "Cloud & LAN",
+    "title": "Cloud &amp; LAN",
+    "content": "ScummVM has two additional tabs: Cloud and LAN. This allows you to sync games and download game files from storage. | Cloud . | Connecting Cloud Storage | Game Sync | Downloading game files | . | LAN . | Running a web server | Using webserver to upload/download files | . | . TODO! . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Guides/cloud-and-lan.html#cloud--lan",
+    "relUrl": "/docs/ScummVM%202.0/Guides/cloud-and-lan.html#cloud--lan"
+  },"7": {
+    "doc": "Cloud & LAN",
+    "title": "Cloud & LAN",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Guides/cloud-and-lan.html",
+    "relUrl": "/docs/ScummVM%202.0/Guides/cloud-and-lan.html"
+  },"8": {
+    "doc": "Command Line",
+    "title": "Command Line Options",
+    "content": "ScummVM can be accessed through the command line. This section talks about the different command line options. Add The command line options from ReadME/5.1-Command-Line Also refer User Manual/Appendix: Command Line Options. Check for differences. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/command-line.html#command-line-options",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/command-line.html#command-line-options"
+  },"9": {
+    "doc": "Command Line",
+    "title": "Command Line",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/command-line.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/command-line.html"
+  },"10": {
+    "doc": "Configuration File",
+    "title": "Configuration File",
+    "content": "The configuration file stores the settings that have been saved on the ScummVM GUI. This is a plain text file which can be edited directly. There are some advanced settings which are only available through the configuration file only. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/configuration-file.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/configuration-file.html"
+  },"11": {
+    "doc": "Configuration File",
+    "title": "Config file location path",
+    "content": ". | Make a table describing: OS, Path | Refer ReadME/8.0 &amp; UserManual/Configuring_ScummVM ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/configuration-file.html#config-file-location-path",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/configuration-file.html#config-file-location-path"
+  },"12": {
+    "doc": "Configuration File",
+    "title": "Config file description",
+    "content": "| Make a table describing: INI Section, Name, Description | Refer Appendix: config file description ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/configuration-file.html#config-file-description",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/configuration-file.html#config-file-description"
+  },"13": {
+    "doc": "Configuration File",
+    "title": "General config file settings",
+    "content": "| Table: Keyword, Type, Description | Include configuration keywords from ReadME/8.0-configuration-file ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/configuration-file.html#general-config-file-settings",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/configuration-file.html#general-config-file-settings"
+  },"14": {
+    "doc": "Configuration File",
+    "title": "Game specific settings",
+    "content": "| Describe Music &amp; Sound effects mute settings for different games | Refer User Manual/Configuring_ScummVM | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/configuration-file.html#game-specific-settings",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/configuration-file.html#game-specific-settings"
+  },"15": {
+    "doc": "Configuration",
+    "title": "Configuration",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Getting%20Started/configuration.html",
+    "relUrl": "/docs/ScummVM%202.0/Getting%20Started/configuration.html"
+  },"16": {
+    "doc": "Configuring ScummVM",
+    "title": "Configuring ScummVM",
+    "content": "ScummVM launcher presents you with an Options button. This sections describes how to configure settings for using ScummVM. We will be looking into all of the settings in details below. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html"
+  },"17": {
+    "doc": "Configuring ScummVM",
+    "title": "Using The Launcher",
+    "content": "The ScummVM Launcher provides the user with a GUI for changing settings that it uses to run games. ScummVM allows two kinds of settings: . | Default Settings: Settings which the game will follow unless told otherwise | Custom Settings: Settings which will be different from the default. | . In this section we will only be dealing with Default Settings . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#using-the-launcher",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#using-the-launcher"
+  },"18": {
+    "doc": "Configuring ScummVM",
+    "title": "Graphics Tab",
+    "content": ". | Tabular description of Control, Description | Screenshots. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#graphics-tab",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#graphics-tab"
+  },"19": {
+    "doc": "Configuring ScummVM",
+    "title": "Audio Tab",
+    "content": "| Tabular description of Control, Description | Screenshots. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#audio-tab",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#audio-tab"
+  },"20": {
+    "doc": "Configuring ScummVM",
+    "title": "Volume Tab",
+    "content": "| Tabular description of Control, Description | Screenshots. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#volume-tab",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#volume-tab"
+  },"21": {
+    "doc": "Configuring ScummVM",
+    "title": "MIDI Tab",
+    "content": "| Tabular description of Control, Description | Screenshots. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#midi-tab",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#midi-tab"
+  },"22": {
+    "doc": "Configuring ScummVM",
+    "title": "Paths Tab",
+    "content": "| Tabular description of Control, Description | Screenshots. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#paths-tab",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#paths-tab"
+  },"23": {
+    "doc": "Configuring ScummVM",
+    "title": "Misc Tab",
+    "content": "| Tabular description of Control, Description | Screenshots. | . Advanced users might considers looking into Advanced Guides &gt; Configuration File &amp;&amp; Command Line Options. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#misc-tab",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/configuring.html#misc-tab"
+  },"24": {
+    "doc": "Contact",
+    "title": "Contact",
+    "content": "TODO . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Getting%20Help/contact.html",
+    "relUrl": "/docs/ScummVM%202.0/Getting%20Help/contact.html"
+  },"25": {
+    "doc": "Controls & Mapping",
+    "title": "Controls &amp; Mapping",
+    "content": "This section talks about the game-specific game controls and mappings for different devices and ports. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/controls.html#controls--mapping",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/controls.html#controls--mapping"
+  },"26": {
+    "doc": "Controls & Mapping",
+    "title": "Controls & Mapping",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/controls.html",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/controls.html"
+  },"27": {
+    "doc": "Credits",
+    "title": "Credits",
+    "content": "TODO . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Getting%20Help/credits.html",
+    "relUrl": "/docs/ScummVM%202.0/Getting%20Help/credits.html"
+  },"28": {
+    "doc": "Custom Options",
+    "title": "Custom Options",
+    "content": "ScummVM allows you to deviate from default settings for certain games. This section will contain information on how to set custom settings. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/custom-options.html",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/custom-options.html"
+  },"29": {
+    "doc": "Custom Options",
+    "title": "Launcher Options",
+    "content": "ScummVM allows us to override the defaults we have set up in the Options menu. There is a variety of options, and we shall look into each one of them. Game Tab . | Table: Control,Description | Snapshots. Graphics Tab . | Table: Control,Description | Snapshots. Audio Tab . | Table: Control,Description | Snapshots. Volume Tab . | Table: Control,Description | Snapshots. MIDI Tab . | Table: Control,Description | Snapshots. Paths Tab . | Table: Control,Description | Snapshots. | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/custom-options.html#launcher-options",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/custom-options.html#launcher-options"
+  },"30": {
+    "doc": "Custom Options",
+    "title": "Command Line Options",
+    "content": "TODO . | Add information from User Manual/Appendix: Command Line Options | Configuration keywords | Boot-params. | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/custom-options.html#command-line-options",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/custom-options.html#command-line-options"
+  },"31": {
+    "doc": "Custom Options",
+    "title": "Config File",
+    "content": "TODO(Not sure if this can be done.) . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/custom-options.html#config-file",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/custom-options.html#config-file"
+  },"32": {
+    "doc": "Custom Options",
+    "title": "Language Options",
+    "content": "The following language choices are available in the Game Tab. | List Games . | List Available languages. | . | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/custom-options.html#language-options",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/custom-options.html#language-options"
+  },"33": {
+    "doc": "Custom Options",
+    "title": "Saved Files",
+    "content": "Saved games are by default put in the current directory on some platforms and preset directories on others. The platforms that have a different default directory are: . | OS1 | OS2 | . Read further at Guides/SaveFiles.md . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/custom-options.html#saved-files",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/custom-options.html#saved-files"
+  },"34": {
+    "doc": "Debian",
+    "title": "Debian",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/debian.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/debian.html"
+  },"35": {
+    "doc": "FAQ",
+    "title": "FAQ",
+    "content": "TODO. Make a compilation of FAQs from . | Wiki | www.scuumvm.org/faq/ | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Getting%20Help/faq.html",
+    "relUrl": "/docs/ScummVM%202.0/Getting%20Help/faq.html"
+  },"36": {
+    "doc": "Game Running Options",
+    "title": "Game Running Options",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/game-running-option.html",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/game-running-option.html"
+  },"37": {
+    "doc": "Getting Help",
+    "title": "Getting Help",
+    "content": "This section keeps track of issues, problems, bugs, changelogs and related contents. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Getting%20Help/getting-help.html",
+    "relUrl": "/docs/ScummVM%202.0/Getting%20Help/getting-help.html"
+  },"38": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": " ",
+    "url": "http://localhost:4000/scummvm2.0/getting-started",
+    "relUrl": "/scummvm2.0/getting-started"
+  },"39": {
+    "doc": "Graphics Filters",
+    "title": "Graphics Filters",
+    "content": "ScummVM offers several anti-aliasing filters to attempt to improve visual quality. | The different scale factors and what they do. | Command line option. | Notes. | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/graphics-filters.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/graphics-filters.html"
+  },"40": {
+    "doc": "Guides",
+    "title": "Guides",
+    "content": "This section is meant for users to have a quick access to certain guides that will be of paramount importance to them. This section has been built keeping in mind that some aspects of ScummVM need to prioritized over others because they are frequently used and also deserve attention. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Guides/guides.html",
+    "relUrl": "/docs/ScummVM%202.0/Guides/guides.html"
+  },"41": {
+    "doc": "Hotkeys",
+    "title": "Hotkeys",
+    "content": "ScummVM supports various in-game hotkeys. | Common Hotkeys: Hotkeys! . | ScummVM Hotkeys: Hotkeys! . | Game Specific Hotkeys: . | LucasArts Games: Hotkeys! . | Revolution Software Games: Hotkeys! . | ..and others. | . | Ending Notes. | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/hotkeys.html",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/hotkeys.html"
+  },"42": {
+    "doc": "Introduction",
+    "title": "Introduction",
+    "content": "I’m not gonna to use 2020 as an excuse to stop my growth. I want to indulge myself with like-minded people and be a part of something bigger than myself. Although I may not belong in the generation of the Macintosh, I do belong in the gaming community. I share the sentiment behind the creation of such a software, and I would like to make it better. Profile Previous Work . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"43": {
+    "doc": "Introduction",
+    "title": "ScummVM - Launching a new documentation portal",
+    "content": "The current state of the user documentation is rather faulty. ScummVM’s audience targets an amateur audience as well as the computer geeks. This makes the user facing docs as the top priority. For this project, simplicity should be a major goal. Documentation should be concise, incisive and to the point. Information is plentiful, but lacks a touch of professionalism. The approach will focus heavily of collecting, restructing, and organising. The proposal first discusses about the shortcomings of the documentation and how to tackle it. Further, it presents sitemaps,layouts and write-up snippets to provide a sneak-peek to the new documentation portal. The user readability has been given paramount importance by using a friendly, yet informative attitude. Analysis . ScummVM’s documentation has a variety of issues. Discussed as below: . | Readability . | Information is scattered and dissipated - Information is dispersed among mutltiple sources of documentation. This makes the reader go through a lot of hassle trying to find instructions. | . | Navigation . | Poor documentation structure. Information is abundant, but lacks a concrete catalogue. What good is the gold that cannot be mined? | . | Redundancy . | Multiple instances exist for the same documentation. This leads to confusion among users and they might feel lost trying to figure what’s best for them. | . | Highlighting . | ScummVM documentation has a plethora of amazing functionalities that never make it to the reader’s eyes. ScummVM’s features require better documenting and showcasing. | . | . | Read Solution | . ",
+    "url": "http://localhost:4000/#scummvm---launching-a-new-documentation-portal",
+    "relUrl": "/#scummvm---launching-a-new-documentation-portal"
+  },"44": {
+    "doc": "Installation",
+    "title": "Installation",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Getting%20Started/installation.html",
+    "relUrl": "/docs/ScummVM%202.0/Getting%20Started/installation.html"
+  },"45": {
+    "doc": "Installing Games",
+    "title": "Installing Games",
+    "content": "This section deals with installing games for the different supports of ScummVM. In case the quick start notes proved to be insufficient, or caused issues read through this section. | List of supported games | General Instructions | Unknown Game Variants | HOW-TOs. | Extract/copy Mac Games to use | ..and others. | . | Port-specific installation notes . | DreamCast | GameCube | iPhone/iPod Touch | Maemo | Nintendo DS | PS 2 | ..and others. | . | Game Specific Instructions | Make compilation of general notes from UserManual/InstallingAGame/GeneralNotes and ReadME/3.0 | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/installing-games.html",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/installing-games.html"
+  },"46": {
+    "doc": "Introduction",
+    "title": "Introduction",
+    "content": "ScummVM is a program which lets you run classic graphical point-and-click adventure games and role-playing games back from the ’80s! ScummVM supports a huge library of adventures with over 250 games in total! Some of these games include - Monkey Island series, Broken Sword , Myst, Blade Runner. ScummVM is special in it’s own way. ScummVM allows you to play these games on systems for which they were never designed. All you have to do is install the software, find your old CDs and run the application. It’s as easy as it sounds. Among the systems on which you can play are regular desktop computers(Windows, Linux, Mac OSX), game consoles, smartphones and more. ScummVM has a stable release and provides active support for a plethora of games. ScummVM is even being used commercially to re-release some of the supported games on modern platforms. This goes to show that several companies are happy with the quality of the software and how well it can run some of the games. Get going with the Quick Start Guide . You can find a full list of supported platforms and games on this page. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Introduction/introduction.html",
+    "relUrl": "/docs/ScummVM%202.0/Introduction/introduction.html"
+  },"47": {
+    "doc": "macOS",
+    "title": "macOS",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/macos.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/macos.html"
+  },"48": {
+    "doc": "Music & Sound",
+    "title": "Music and Sound",
+    "content": "ScummVM has an extensive amount of options for Music and Sound. (Most of this is taken from the ReadME) . | Config file options | AdLin emulation | Fluid Synth MIDI Emulation | MT-32 Emulation | MIDI Emulation | Native MIDI support | Using MIDI options to customize native MIDI output. | UNIX native, ALSA and dmedia sequencer support | ALSA sequencer[UNIX ONLY] | IRIX dmedia sequencer[UNIX ONLY] | TiMidity++ MIDI server support | Using compressed audio files . | Using MP3 files for CD audio | Using Ogg Vorbis files for CD audio | Using Flac files for CD audio | Compressing MONSTER.SOU with MP3 | Compressing MONSTER.SOU with OGG Vorbis | Compressing music/sfx/speech in AGOS games | Compressing speech/music in Broken Sword | Compressing speech/music in Broken Sword II | . | Output Sample Rate | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/music-and-sound.html#music-and-sound",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/music-and-sound.html#music-and-sound"
+  },"49": {
+    "doc": "Music & Sound",
+    "title": "Music & Sound",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/music-and-sound.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Advanced%20Guides/music-and-sound.html"
+  },"50": {
+    "doc": "Obtaining ScummVM",
+    "title": "Obtaining ScummVM",
+    "content": "ScummVM recommends most users to download the pre-built binaries. For advanced users, you have the additional option of compiling it from source. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/obtaining-scummvm.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/obtaining-scummvm.html"
+  },"51": {
+    "doc": "Obtaining ScummVM",
+    "title": "Binaries",
+    "content": "You can download official binaries of ScummVM from the downloads page. The following are the official binaries by ScummVM: . | Linux(Fedora Core) | Linux(Debian) | Windows | macOS | Dreamcast | GP2X | Nintendo DS | PlayStation Portable | Symbian | Windows Mobile | . Installation . After you have obtained ScummVM as described above, refer below for installation instructions. The steps required differ from system to system. | Amiga OS4 | Atari | BeOS | Debian | macOS | Windows | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/obtaining-scummvm.html#binaries",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/obtaining-scummvm.html#binaries"
+  },"52": {
+    "doc": "Obtaining ScummVM",
+    "title": "Compiling From Sources",
+    "content": "ScummVM is written in C++ and has been ported to several different platforms. Compilation of ScummVM is different for each platform, please take care with the instructions. | Integrate wiki page? | Listing all libraries; acquiring; installing | Include information from ReadME/10.0-Compiling. | Make Indiviual pages for installing like I did above? | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/obtaining-scummvm.html#compiling-from-sources",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/obtaining-scummvm.html#compiling-from-sources"
+  },"53": {
+    "doc": "Supported Platforms",
+    "title": "Supported Platforms",
+    "content": "ScummVM has been ported to run on many platforms and operating systems. | Supported Platforms . | Windows | Dreamcast | PlayStation Portable | UNIX | AmigaOS | Atari | macOS | iOS | . | Outdated Officially Supported Platforms . | PalmOS | Familiar | Linux/X11 | Nintendo DS | Dingux | PlayStation 2 | . | Unofficial Platforms ScummVM works on many unofficial ports. ScummVM does not provide support for the ports mentioned below: . | Microsoft Xbox | MenuetOS | KolibriOS | . | . Ready? Time to get ScummVM up and running on your system! Move onto the next section. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/platforms.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/platforms.html"
+  },"54": {
+    "doc": "Playing Games",
+    "title": "Playing Games",
+    "content": "Step-by-step guide to show how to run a game from the ScummVM Launcher. | Running a game from the launcher | Screenshot | . Running ScummVM from command line . The simplest way to run a game from the command line is to type: . scummvm samnmax . TODO . | Check Additional Command Line Options(link) | Check Controls(link) | Check Hotkeys(link) | Check Game specific instructions(link) | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/playing-a-game.html",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/playing-a-game.html"
+  },"55": {
+    "doc": "Playing Games",
+    "title": "Copy Protection",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/playing-a-game.html#copy-protection",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/playing-a-game.html#copy-protection"
+  },"56": {
+    "doc": "Removing Games",
+    "title": "Removing Games",
+    "content": "To remove a game from the ScummVM Launcher, select the game you want to remove and click the “Remove Game” button on the right-hand side. | Add Screenshots | Add notes. | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Game%20Running%20Options/removing-games.html",
+    "relUrl": "/docs/ScummVM%202.0/Game%20Running%20Options/removing-games.html"
+  },"57": {
+    "doc": "Reporting Bugs",
+    "title": "Reporting Bugs",
+    "content": "To report bugs, please follow the “Bug Tracker” link from the homepage and log in with GitHub. | Check known problems. | Check compatibility list. | Include information . | Refer ReadME/2.1 | . | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Getting%20Help/reporting-bugs.html",
+    "relUrl": "/docs/ScummVM%202.0/Getting%20Help/reporting-bugs.html"
+  },"58": {
+    "doc": "Requirements",
+    "title": "Requirements",
+    "content": "ScummVM supports a lost of systems and ports, but for more granular details have a look at the requirements mentioned below. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/requirements.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/requirements.html"
+  },"59": {
+    "doc": "Requirements",
+    "title": "Requirements",
+    "content": ". | List requirements here. | Dependencies | CPU | Memory | . | List supported platforms here. | Linux, Solaris | Windows | macOS | Android phones | PlayStation | . | List unofficially supported platforms here. | PS 3 | RISC OS | Xbox | . | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/requirements.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/requirements.html"
+  },"60": {
+    "doc": "Save Files",
+    "title": "Save Files",
+    "content": "Save Files are by default put in the current directory on some platforms and oreset directories on others. You can specift the save ub the config file by setting the savepath parameter. Platforms that currently have a differnet default directory are: . | Mac OS X | Windows Vista | ..and others. | . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Guides/save-files.html",
+    "relUrl": "/docs/ScummVM%202.0/Guides/save-files.html"
+  },"61": {
+    "doc": "Save Files",
+    "title": "Autosaves",
+    "content": "TODO . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Guides/save-files.html#autosaves",
+    "relUrl": "/docs/ScummVM%202.0/Guides/save-files.html#autosaves"
+  },"62": {
+    "doc": "Save Files",
+    "title": "Converting Saved Games",
+    "content": "TODO . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Guides/save-files.html#converting-saved-games",
+    "relUrl": "/docs/ScummVM%202.0/Guides/save-files.html#converting-saved-games"
+  },"63": {
+    "doc": "Save Files",
+    "title": "Viewing/Loading saved games from the command line",
+    "content": "TODO . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Guides/save-files.html#viewingloading-saved-games-from-the-command-line",
+    "relUrl": "/docs/ScummVM%202.0/Guides/save-files.html#viewingloading-saved-games-from-the-command-line"
+  },"64": {
+    "doc": "Screenshots",
+    "title": "Screenshots",
+    "content": "On systems using the SDL backend(for example, Windows, Mac, or Linux) you can use alt+s to take snapshots. | Specify screenshot paths | Specify notes | . TODO . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Guides/screenshots.html",
+    "relUrl": "/docs/ScummVM%202.0/Guides/screenshots.html"
+  },"65": {
+    "doc": "ScummVM Running Options",
+    "title": "ScummVM Running Options",
+    "content": " ",
+    "url": "http://localhost:4000/scummvm2.0/running-options",
+    "relUrl": "/scummvm2.0/running-options"
+  },"66": {
+    "doc": "Solution",
+    "title": "Solution",
+    "content": "The new documentation portal will not carry forward the mistakes previously made. This section will talk about my approach towards making this project a success; The solution has been formulated keeping everything in mind that was discussed on the previous page. The keypoints of the new documentation are summarized as follows: . | Collecting and Gathering . | Information will be gathered from the User Manual, Wiki, and README to create the new portal. The guides will be written by coalescing only the most important bits of information. The new content would be brief for the beginner user and engaging to the veteran. | Features will not be seenzoned anymore. Certain features are of necessity to the user, but are prone to being overlooked. The new documentation portal will showcase all the functionalities of ScummVM. | No repitions. All relevant content should be in one spot. A complete compilation of all the resources in one portal. No more dispersion of data. | . | Better support . | Refreshing the manuals. The current manual is good, but has become outdated. Certain sections of documentation need prime focus, such as: Running options,Configuration. These documents need to be dusted and filtered of the unnecessary. | Scattered help. ScummVM has documented certain commonly faced issues, but again, they are all over the place. For instance: FAQs exist on every document portal. They need to be compiled and shown in one spot, preferably with tags. | . | Brand new layout . | I have compiled the entire sitemap of the new documentation portal. This will highlight all the major changes between the existing user manual and my portal. Relocation of information is very necessary and one of the major goals would be to keep resources where they should be. | Divied section “Using ScummVM” into 2 parts - “ScummVM Running Options” and “_Game Running Options”. This was done to improve readability and acheiving the objective of assembling resources. | “ScummVM Running Options” focuses on the application and all related functions. | “Game Running Options” focuses on games, their issues, and related functions. | Added new sections: . | “Guides”: Features of ScummVM that every beginner to intermediate user would be interested in. (Command line options, Installation guides etc. ). This section gives prime focus towards hands-on knowledge about ScummVM. Users will find it extremely helpful | “Advanced Guides”: Features of ScummVM that only the experts use. (Compiling binaries, Music and Sound etc.) | . | Removed section “ScummVM Interface”. | . | . ",
+    "url": "http://localhost:4000/solution",
+    "relUrl": "/solution"
+  },"67": {
+    "doc": "Solution",
+    "title": "Proposed Sitemap",
+    "content": "├── Game\\ Running\\ Options │   ├── controls.md │   ├── custom-options.md │   ├── game-running-option.md │   ├── hotkeys.md │   ├── installing-games.md │   ├── playing-a-game.md │   └── removing-games.md ├── Getting\\ Help │   ├── changelog.md │   ├── contact.md │   ├── credits.md │   ├── faq.md │   ├── getting-help.md │   ├── reporting-bugs.md │   └── translations.md ├── Getting\\ Started │   ├── configuration.md │   ├── getting-started.md │   └── installation.md ├── Guides │   ├── cloud-and-lan.md │   ├── guides.md │   ├── save-files.md │   └── screenshots.md ├── Introduction │   └── introduction.md └── ScummVM\\ Running\\ Options ├── Advanced\\ Guides │   ├── command-line.md │   ├── configuration-file.md │   ├── graphics-filters.md │   └── music-and-sound.md ├── Obtaining\\ ScummVM │   ├── amiga-os4.md │   ├── atari.md │   ├── beos.md │   ├── debian.md │   ├── macos.md │   └── windows.md ├── advanced-guides.md ├── configuring.md ├── obtaining-scummvm.md ├── platforms.md ├── requirements.md ├── scummvm-running-options.md └── uninstalling.md 8 directories, 39 files . | Read Work Plan | . ",
+    "url": "http://localhost:4000/solution#proposed-sitemap",
+    "relUrl": "/solution#proposed-sitemap"
+  },"68": {
+    "doc": "Translations",
+    "title": "Translations",
+    "content": "TODO . ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/Getting%20Help/translations.html",
+    "relUrl": "/docs/ScummVM%202.0/Getting%20Help/translations.html"
+  },"69": {
+    "doc": "Uninstalling ScummVM",
+    "title": "Uninstalling ScummVM",
+    "content": "How to uninstall. ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/uninstalling.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/uninstalling.html"
+  },"70": {
+    "doc": "Windows",
+    "title": "Windows",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/windows.html",
+    "relUrl": "/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/windows.html"
+  },"71": {
+    "doc": "Work Plan",
+    "title": "Work Plan",
+    "content": ". The project timeline will proceed as follows: . | Week | Main Task | . | Week 0 | Refining proposal ideas | . | Week 1 | Portal setup | . | Week 2 | Introduction section | . | Week 3 | Quick start guide and lay groundwork for User Manual | . | Week 4 | ScummVM Running Options | . | Week 5 | Advanced guides and lay groundwork for Game Running Options | . | Week 6 | Finish Game Running Options | . | Week 7 | User Manual - Guides | . | Week 8 | Compilation of resources for “Getting Help” and begin working on it | . | Week 9 | Finish the entire user manual | . | Week 10 | Finishing touches and any outstanding work | . | Week 11 | Project summary and submission | . ",
+    "url": "http://localhost:4000/approach",
+    "relUrl": "/approach"
+  }
+}

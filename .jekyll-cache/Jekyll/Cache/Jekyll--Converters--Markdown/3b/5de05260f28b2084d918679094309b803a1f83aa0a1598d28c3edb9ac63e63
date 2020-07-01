@@ -1,0 +1,24 @@
+I"U<h1 id="configuration-file">Configuration File</h1>
+
+<p>The configuration file stores the settings that have been saved on the ScummVM GUI. This is a plain text file which can be edited directly.</p>
+
+<p>There are some <strong>advanced settings which are only available through the configuration file only.</strong></p>
+
+<h2 id="config-file-location-path">Config file location path</h2>
+<ul>
+  <li>Make a table describing: OS, Path</li>
+  <li>Refer ReadME/8.0 &amp; UserManual/Configuring_ScummVM
+    <h2 id="config-file-description">Config file description</h2>
+  </li>
+  <li>Make a table describing: INI Section, Name, Description</li>
+  <li>Refer Appendix: config file description
+    <h2 id="general-config-file-settings">General config file settings</h2>
+  </li>
+  <li>Table: Keyword, Type, Description</li>
+  <li>Include <strong>configuration keywords</strong> from ReadME/8.0-configuration-file
+    <h2 id="game-specific-settings">Game specific settings</h2>
+  </li>
+  <li>Describe Music &amp; Sound effects mute settings for different games</li>
+  <li>Refer User Manual/Configuring_ScummVM</li>
+</ul>
+:ET

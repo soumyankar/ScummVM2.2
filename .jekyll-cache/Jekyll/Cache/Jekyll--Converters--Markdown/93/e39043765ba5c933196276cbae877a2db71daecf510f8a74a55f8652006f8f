@@ -1,0 +1,22 @@
+I"Î<h1 id="cloud--lan">Cloud &amp; LAN</h1>
+
+<p>ScummVM has two additional tabs: Cloud and LAN. This allows you to sync games and download game files from storage.</p>
+
+<ul>
+  <li>Cloud
+    <ul>
+      <li>Connecting Cloud Storage</li>
+      <li>Game Sync</li>
+      <li>Downloading game files</li>
+    </ul>
+  </li>
+  <li>LAN
+    <ul>
+      <li>Running a web server</li>
+      <li>Using webserver to upload/download files</li>
+    </ul>
+  </li>
+</ul>
+
+<p>TODO!</p>
+:ET

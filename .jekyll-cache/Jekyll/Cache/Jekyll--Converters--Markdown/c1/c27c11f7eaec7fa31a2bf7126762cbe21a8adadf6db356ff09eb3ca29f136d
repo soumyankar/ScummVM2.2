@@ -1,0 +1,11 @@
+I")<h1 id="screenshots">Screenshots</h1>
+
+<p>On systems using the SDL backend(for example, Windows, Mac, or Linux) you can use <code class="language-plaintext highlighter-rouge">alt+s</code> to take snapshots.</p>
+
+<ul>
+  <li>Specify screenshot paths</li>
+  <li>Specify notes</li>
+</ul>
+
+<p>TODO</p>
+:ET

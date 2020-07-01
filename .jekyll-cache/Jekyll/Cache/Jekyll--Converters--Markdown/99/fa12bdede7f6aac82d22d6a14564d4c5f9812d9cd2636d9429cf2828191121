@@ -1,0 +1,32 @@
+I"±<h1 id="requirements">Requirements</h1>
+
+<p>ScummVM supports a lost of systems and ports, but for more granular details have a look at the requirements mentioned below.</p>
+
+<h2 id="requirements-1">Requirements</h2>
+
+<ul>
+  <li>List requirements here.
+    <ul>
+      <li>Dependencies</li>
+      <li>CPU</li>
+      <li>Memory</li>
+    </ul>
+  </li>
+  <li>List supported platforms here.
+    <ul>
+      <li>Linux, Solaris</li>
+      <li>Windows</li>
+      <li>macOS</li>
+      <li>Android phones</li>
+      <li>PlayStation</li>
+    </ul>
+  </li>
+  <li>List unofficially supported platforms here.
+    <ul>
+      <li>PS 3</li>
+      <li>RISC OS</li>
+      <li>Xbox</li>
+    </ul>
+  </li>
+</ul>
+:ET

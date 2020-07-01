@@ -1,0 +1,39 @@
+I"¬<h1 id="supported-platforms">Supported Platforms</h1>
+
+<p>ScummVM has been ported to run on many platforms and operating systems.</p>
+
+<ul>
+  <li>Supported Platforms
+    <ul>
+      <li>Windows</li>
+      <li>Dreamcast</li>
+      <li>PlayStation Portable</li>
+      <li>UNIX</li>
+      <li>AmigaOS</li>
+      <li>Atari</li>
+      <li>macOS</li>
+      <li>iOS</li>
+    </ul>
+  </li>
+  <li>Outdated Officially Supported Platforms
+    <ul>
+      <li>PalmOS</li>
+      <li>Familiar</li>
+      <li>Linux/X11</li>
+      <li>Nintendo DS</li>
+      <li>Dingux</li>
+      <li>PlayStation 2</li>
+    </ul>
+  </li>
+  <li>Unofficial Platforms
+ScummVM works on many unofficial ports. ScummVM does not provide support for the ports mentioned below:
+    <ul>
+      <li>Microsoft Xbox</li>
+      <li>MenuetOS</li>
+      <li>KolibriOS</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Ready? Time to get ScummVM up and running on your system! Move onto the next section.</p>
+:ET

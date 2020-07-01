@@ -1,0 +1,45 @@
+I"±<h1 id="obtaining-scummvm">Obtaining ScummVM</h1>
+
+<p>ScummVM recommends most users to download the pre-built binaries. For advanced users, you have the additional option of compiling it from source.</p>
+
+<h2 id="binaries">Binaries</h2>
+
+<p>You can download official binaries of ScummVM from the <a href="some_link">downloads page</a>. The following are the official binaries by ScummVM:</p>
+
+<ul>
+  <li>Linux(Fedora Core)</li>
+  <li>Linux(Debian)</li>
+  <li>Windows</li>
+  <li>macOS</li>
+  <li>Dreamcast</li>
+  <li>GP2X</li>
+  <li>Nintendo DS</li>
+  <li>PlayStation Portable</li>
+  <li>Symbian</li>
+  <li>Windows Mobile</li>
+</ul>
+
+<h3 id="installation">Installation</h3>
+
+<p>After you have obtained ScummVM as described above, refer below for installation instructions. 
+The steps required differ from system to system.</p>
+<ul>
+  <li><a href="/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/atari.html">Amiga OS4</a></li>
+  <li><a href="/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/atari.html">Atari</a></li>
+  <li><a href="/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/atari.html">BeOS</a></li>
+  <li><a href="/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/atari.html">Debian</a></li>
+  <li><a href="/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/atari.html">macOS</a></li>
+  <li><a href="/docs/ScummVM%202.0/ScummVM%20Running%20Options/Obtaining%20ScummVM/atari.html">Windows</a></li>
+</ul>
+
+<h2 id="compiling-from-sources">Compiling From Sources</h2>
+
+<p>ScummVM is written in C++ and has been ported to several different platforms. Compilation of ScummVM is different for each platform, please take care with the instructions.</p>
+
+<ul>
+  <li>Integrate wiki page?</li>
+  <li>Listing all libraries; acquiring; installing</li>
+  <li>Include information from ReadME/10.0-Compiling.</li>
+  <li>Make Indiviual pages for installing like I did above?</li>
+</ul>
+:ET

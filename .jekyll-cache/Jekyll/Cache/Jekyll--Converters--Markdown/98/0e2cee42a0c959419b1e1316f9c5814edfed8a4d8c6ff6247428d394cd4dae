@@ -1,0 +1,92 @@
+I"3<h1 id="solution">Solution</h1>
+
+<p>The new documentation portal will not carry forward the mistakes previously made. This section will talk about my approach towards making this project a success; The solution has been formulated keeping everything in mind that was discussed on the previous page. The keypoints of the new documentation are summarized as follows:</p>
+
+<ol>
+  <li>Collecting and Gathering
+    <ul>
+      <li>Information will be gathered from the User Manual, Wiki, and README to create the new portal. The guides will be written by <strong>coalescing only the most important bits of information</strong>. The new content would be brief for the beginner user and engaging to the veteran.</li>
+      <li><strong>Features will not be seenzoned anymore</strong>. Certain features are of necessity to the user, but are prone to being overlooked. The new documentation portal will showcase all the functionalities of ScummVM.</li>
+      <li><strong>No repitions</strong>. All relevant content should be in one spot. A complete compilation of all the resources in one portal. No more dispersion of data.</li>
+    </ul>
+  </li>
+  <li>Better support
+    <ul>
+      <li><strong>Refreshing the manuals</strong>. The current manual is good, but has become outdated. Certain sections of documentation need prime focus, such as: Running options,Configuration. These documents need to be dusted and filtered of the unnecessary.</li>
+      <li><strong>Scattered help</strong>. ScummVM has documented certain commonly faced issues, but again, they are all over the place. For instance: FAQs exist on every document portal. They need to be compiled and shown in one spot, preferably with tags.</li>
+    </ul>
+  </li>
+  <li><strong>Brand new layout</strong>
+    <ul>
+      <li>I have compiled the entire sitemap of the new documentation portal. This will highlight all the major changes between the existing user manual and my portal. <strong>Relocation of information is very necessary</strong> and one of the major goals would be to keep resources where they should be.</li>
+      <li>Divied section “<em>Using ScummVM</em>” into 2 parts - “<em>ScummVM Running Options” and “_Game Running Options</em>”. This was done to improve readability and acheiving the objective of assembling resources.</li>
+      <li>“<em>ScummVM Running Options</em>” focuses on the application and all related functions.</li>
+      <li>“<em>Game Running Options</em>” focuses on games, their issues, and related functions.</li>
+      <li>Added new sections:
+        <ul>
+          <li>“<em>Guides</em>”: Features of ScummVM that every beginner to intermediate user would be interested in. (Command line options, Installation guides etc. ). This section gives prime focus towards hands-on knowledge about ScummVM. Users will find it extremely helpful</li>
+          <li>“<em>Advanced Guides</em>”: Features of ScummVM that only the experts use. (Compiling binaries, Music and Sound etc.)</li>
+        </ul>
+      </li>
+      <li>Removed section “<em>ScummVM Interface</em>”.</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="proposed-sitemap">Proposed Sitemap</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>├── Game\ Running\ Options
+│   ├── controls.md
+│   ├── custom-options.md
+│   ├── game-running-option.md
+│   ├── hotkeys.md
+│   ├── installing-games.md
+│   ├── playing-a-game.md
+│   └── removing-games.md
+├── Getting\ Help
+│   ├── changelog.md
+│   ├── contact.md
+│   ├── credits.md
+│   ├── faq.md
+│   ├── getting-help.md
+│   ├── reporting-bugs.md
+│   └── translations.md
+├── Getting\ Started
+│   ├── configuration.md
+│   ├── getting-started.md
+│   └── installation.md
+├── Guides
+│   ├── cloud-and-lan.md
+│   ├── guides.md
+│   ├── save-files.md
+│   └── screenshots.md
+├── Introduction
+│   └── introduction.md
+└── ScummVM\ Running\ Options
+    ├── Advanced\ Guides
+    │   ├── command-line.md
+    │   ├── configuration-file.md
+    │   ├── graphics-filters.md
+    │   └── music-and-sound.md
+    ├── Obtaining\ ScummVM
+    │   ├── amiga-os4.md
+    │   ├── atari.md
+    │   ├── beos.md
+    │   ├── debian.md
+    │   ├── macos.md
+    │   └── windows.md
+    ├── advanced-guides.md
+    ├── configuring.md
+    ├── obtaining-scummvm.md
+    ├── platforms.md
+    ├── requirements.md
+    ├── scummvm-running-options.md
+    └── uninstalling.md
+
+8 directories, 39 files
+</code></pre></div></div>
+
+<ul>
+  <li><a href="/approach">Read Work Plan</a></li>
+</ul>
+:ET

@@ -1,0 +1,28 @@
+I"T<h1 id="installing-games">Installing Games</h1>
+
+<p>This section deals with installing games for the different supports of ScummVM. In case the quick start notes proved to be insufficient, or caused issues read through this section.</p>
+<ol>
+  <li>List of supported games</li>
+  <li>General Instructions</li>
+  <li>Unknown Game Variants</li>
+  <li>HOW-TOs.
+    <ul>
+      <li>Extract/copy Mac Games to use</li>
+      <li>..and others.</li>
+    </ul>
+  </li>
+  <li>Port-specific installation notes
+    <ul>
+      <li>DreamCast</li>
+      <li>GameCube</li>
+      <li>iPhone/iPod Touch</li>
+      <li>Maemo</li>
+      <li>Nintendo DS</li>
+      <li>PS 2</li>
+      <li>..and others.</li>
+    </ul>
+  </li>
+  <li>Game Specific Instructions</li>
+  <li>Make compilation of general notes from UserManual/InstallingAGame/GeneralNotes and ReadME/3.0</li>
+</ol>
+:ET

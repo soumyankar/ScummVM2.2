@@ -1,0 +1,29 @@
+I"¹<h1 id="hotkeys">Hotkeys</h1>
+
+<p>ScummVM supports various in-game hotkeys.</p>
+
+<ul>
+  <li>Common Hotkeys:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Hotkeys!
+</code></pre></div>    </div>
+  </li>
+  <li>ScummVM Hotkeys:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Hotkeys!
+</code></pre></div>    </div>
+  </li>
+  <li>Game Specific Hotkeys:
+    <ul>
+      <li>LucasArts Games:
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  Hotkeys!	
+</code></pre></div>        </div>
+      </li>
+      <li>Revolution Software Games:
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  Hotkeys!	
+</code></pre></div>        </div>
+      </li>
+      <li>..and others.</li>
+    </ul>
+  </li>
+  <li>Ending Notes.</li>
+</ul>
+:ET

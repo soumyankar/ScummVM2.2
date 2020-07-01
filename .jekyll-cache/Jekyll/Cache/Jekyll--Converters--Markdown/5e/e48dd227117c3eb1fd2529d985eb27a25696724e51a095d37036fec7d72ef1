@@ -1,0 +1,46 @@
+I"t<h1 id="configuring-scummvm">Configuring ScummVM</h1>
+
+<p>ScummVM launcher presents you with an <em>Options</em> button. This sections describes how to configure settings for using ScummVM. We will be looking into all of the settings in details below.</p>
+
+<hr />
+
+<h1 id="using-the-launcher">Using The Launcher</h1>
+
+<p>The ScummVM Launcher provides the user with a GUI for changing settings that it uses to run games. 
+ScummVM allows two kinds of settings:</p>
+<ul>
+  <li><em>Default</em> Settings: Settings which the game will follow unless told otherwise</li>
+  <li><em>Custom</em> Settings: Settings which will be different from the default.</li>
+</ul>
+
+<p><em>In this section we will only be dealing with Default Settings</em></p>
+
+<h2 id="graphics-tab">Graphics Tab</h2>
+<ul>
+  <li>Tabular description of <em>Control, Description</em></li>
+  <li>Screenshots.
+    <h2 id="audio-tab">Audio Tab</h2>
+  </li>
+  <li>Tabular description of <em>Control, Description</em></li>
+  <li>Screenshots.
+    <h2 id="volume-tab">Volume Tab</h2>
+  </li>
+  <li>Tabular description of <em>Control, Description</em></li>
+  <li>Screenshots.
+    <h2 id="midi-tab">MIDI Tab</h2>
+  </li>
+  <li>Tabular description of <em>Control, Description</em></li>
+  <li>Screenshots.
+    <h2 id="paths-tab">Paths Tab</h2>
+  </li>
+  <li>Tabular description of <em>Control, Description</em></li>
+  <li>Screenshots.
+    <h2 id="misc-tab">Misc Tab</h2>
+  </li>
+  <li>Tabular description of <em>Control, Description</em></li>
+  <li>Screenshots.</li>
+</ul>
+
+<hr />
+<p>Advanced users might considers looking into Advanced Guides &gt; Configuration File &amp;&amp; Command Line Options.</p>
+:ET

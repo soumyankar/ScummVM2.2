@@ -1,0 +1,65 @@
+I"7<h1 id="custom-options">Custom Options</h1>
+
+<p>ScummVM allows you to deviate from default settings for certain games. This section will contain information on how to set custom settings.</p>
+
+<h2 id="launcher-options">Launcher Options</h2>
+<p>ScummVM allows us to override the defaults we have set up in the <em>Options</em> menu. There is a variety of options, and we shall look into each one of them.</p>
+
+<h3 id="game-tab">Game Tab</h3>
+<ul>
+  <li>Table: Control,Description</li>
+  <li>Snapshots.
+    <h3 id="graphics-tab">Graphics Tab</h3>
+  </li>
+  <li>Table: Control,Description</li>
+  <li>Snapshots.
+    <h3 id="audio-tab">Audio Tab</h3>
+  </li>
+  <li>Table: Control,Description</li>
+  <li>Snapshots.
+    <h3 id="volume-tab">Volume Tab</h3>
+  </li>
+  <li>Table: Control,Description</li>
+  <li>Snapshots.
+    <h3 id="midi-tab">MIDI Tab</h3>
+  </li>
+  <li>Table: Control,Description</li>
+  <li>Snapshots.
+    <h3 id="paths-tab">Paths Tab</h3>
+  </li>
+  <li>Table: Control,Description</li>
+  <li>Snapshots.</li>
+</ul>
+
+<h2 id="command-line-options">Command Line Options</h2>
+<p>TODO</p>
+<ul>
+  <li>Add information from User Manual/Appendix: Command Line Options</li>
+  <li><em>Configuration keywords</em></li>
+  <li>Boot-params.</li>
+</ul>
+
+<h2 id="config-file">Config File</h2>
+<p>TODO(Not sure if this can be done.)</p>
+
+<h2 id="language-options">Language Options</h2>
+<p>The following language choices are available in the Game Tab.</p>
+<ul>
+  <li>List Games
+    <ul>
+      <li>List Available languages.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="saved-files">Saved Files</h2>
+<p>Saved games are by default put in the current directory on some platforms and preset directories on others.</p>
+
+<p>The platforms that have a different default directory are:</p>
+<ul>
+  <li>OS1</li>
+  <li>OS2</li>
+</ul>
+
+<p>Read further at Guides/SaveFiles.md</p>
+:ET

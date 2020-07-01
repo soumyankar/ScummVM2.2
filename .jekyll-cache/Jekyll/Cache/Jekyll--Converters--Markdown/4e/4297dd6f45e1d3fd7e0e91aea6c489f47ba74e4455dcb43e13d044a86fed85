@@ -1,0 +1,32 @@
+I"N<h1 id="music-and-sound">Music and Sound</h1>
+
+<p>ScummVM has an extensive amount of options for Music and Sound.
+(Most of this is taken from the ReadME)</p>
+
+<ol>
+  <li>Config file options</li>
+  <li>AdLin emulation</li>
+  <li>Fluid Synth MIDI Emulation</li>
+  <li>MT-32 Emulation</li>
+  <li>MIDI Emulation</li>
+  <li>Native MIDI support</li>
+  <li>Using MIDI options to customize native MIDI output.</li>
+  <li>UNIX native, ALSA and dmedia sequencer support</li>
+  <li>ALSA sequencer[UNIX ONLY]</li>
+  <li>IRIX dmedia sequencer[UNIX ONLY]</li>
+  <li>TiMidity++ MIDI server support</li>
+  <li>Using compressed audio files
+    <ul>
+      <li>Using MP3 files for CD audio</li>
+      <li>Using Ogg Vorbis files for CD audio</li>
+      <li>Using Flac files for CD audio</li>
+      <li>Compressing MONSTER.SOU with MP3</li>
+      <li>Compressing MONSTER.SOU with OGG Vorbis</li>
+      <li>Compressing music/sfx/speech in AGOS games</li>
+      <li>Compressing speech/music in Broken Sword</li>
+      <li>Compressing speech/music in Broken Sword II</li>
+    </ul>
+  </li>
+  <li>Output Sample Rate</li>
+</ol>
+:ET
