@@ -4,9 +4,8 @@ title: Introduction
 nav_order: 1
 description: "Proposal for Google Season of Docs '20 on ScummVM"
 permalink: /
-<!-- last_modified_date: 2020-04-27T17:54:08+0000 -->
+last_modified_date: 2020-07-2T00:00:08+0530
 ---
-
 # Introduction
 {: .fs-9 }
 
@@ -42,5 +41,3 @@ ScummVM's documentation has a variety of issues. Discussed as below:
 
 
 - [Read Solution]({{ site.baseurl }}{% link solution.md%})
-
----

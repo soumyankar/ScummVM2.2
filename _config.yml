@@ -17,7 +17,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+search_enabled: true
+logo: "scummvm_logo.png"
 title: ScummVM 
 email: soumyankarm@gmail.com
 description: "I have made an analysis of the shortcomings of the exisiting documentation. First, I will discuss the errors and the flaws of the current write-up.
@@ -27,7 +28,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  soumyankar
-
+footer_content: "GSOD Proposal '20"
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 # Build settings
 plugins:
   - jekyll-feed
