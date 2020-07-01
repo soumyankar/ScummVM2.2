@@ -24,18 +24,18 @@ email: soumyankarm@gmail.com
 description: "I have made an analysis of the shortcomings of the exisiting documentation. First, I will discuss the errors and the flaws of the current write-up.
 Second, I will show you the approach to solving these issues. Finally, I will take you through some of my freshly written/re-written documentation
 files."
-baseurl: "ScummVM2.2" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  soumyankar
 footer_content: "GSOD Proposal '20"
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 # Build settings
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 # Just The DOcs
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
