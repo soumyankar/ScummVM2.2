@@ -29,3 +29,6 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # JustTheDocs Installation below!
 gem "just-the-docs"
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins

@@ -24,7 +24,7 @@ email: soumyankarm@gmail.com
 description: "I have made an analysis of the shortcomings of the exisiting documentation. First, I will discuss the errors and the flaws of the current write-up.
 Second, I will show you the approach to solving these issues. Finally, I will take you through some of my freshly written/re-written documentation
 files."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "ScummVM2.2" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  soumyankar
