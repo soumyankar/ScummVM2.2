@@ -6,3 +6,13 @@ nav_order: 1
 ---
 
 # Installation
+
+### Installing ScummVM
+
+### Adding A Game
+
+### Configuring
+
+### Starting a game
+
+### Further Reading!

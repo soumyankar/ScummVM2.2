@@ -6,3 +6,9 @@ layout: default
 ---
 
 # Configuration
+
+### Interface Description
+
+### Global Settings
+
+### Global Main Menu

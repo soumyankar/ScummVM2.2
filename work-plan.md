@@ -9,6 +9,17 @@ permalink: /approach
 # Work Plan
 
 ---
+### Peek into the future
+
+
+
+_No words acts_
+
+This portal portrays what was proposed. Feel free to browse through the site, and understand the skeleton of the new documentation. Certain pages consist of write-up snippets. This portal attempted to capture the essence of ScummVM and present it to the user. The pages lack content, but not spirit.
+
+---
+### Timeline
+
 The project timeline will proceed as follows:
 
 | Week    |      Main Task                 |
@@ -27,4 +38,5 @@ The project timeline will proceed as follows:
 | Week 11 | Project summary and submission    |
 
 ---
+
 
