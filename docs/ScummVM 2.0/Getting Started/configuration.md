@@ -1,7 +1,7 @@
 ---
 title: Configuration
-nav_order: 2
-parent: Getting Started
+nav_order: 3
+parent: Quick Start
 layout: default
 ---
 

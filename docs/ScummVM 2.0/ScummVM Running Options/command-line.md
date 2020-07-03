@@ -1,7 +1,6 @@
 ---
 layout: default
-parent: Advanced Guides
-grand_parent: ScummVM Running Options
+parent: ScummVM Running Options
 title: Command Line
 nav_order: 2
 ---

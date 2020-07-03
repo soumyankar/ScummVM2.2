@@ -1,9 +1,8 @@
 ---
 layout: default
-parent: Advanced Guides
-grand_parent: ScummVM Running Options
+parent: ScummVM Running Options
 title: Configuration File
-nav_order: 1
+nav_order: 3
 ---
 
 # Configuration File

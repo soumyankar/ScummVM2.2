@@ -14,6 +14,7 @@ The new documentation portal will not carry forward the mistakes previously made
 	- Information will be gathered from the User Manual, Wiki, and README to create the new portal. The guides will be written by **coalescing only the essential bits of information**. The new content would be brief for the beginner user and engaging to the veteran.
 	- **Features will not be seen zoned anymore**. Certain features are of necessity to the user but are prone to be overlooked. The new documentation portal will showcase all the functionalities of ScummVM.
 	- **No repetitions**. All relevant content should be in one spot. A complete compilation of all the resources in one portal. No more dispersion of data.
+    - **Improved flow of information**. Information has been re-written after collecting. Consistency has been maintained to reflect a feel of a course.
 1. Better support
 	- **Refreshing the manuals**. The current manual is good but has become outdated. Individual sections of documentation need prime focus, such as: Running options, Configuration. These documents need to be dusted and filtered off of the unnecessary.
 	- **Scattered help**. ScummVM has documented specific commonly faced issues, but again, they are all over the place. For instance: FAQs exist on every document portal. They need to be compiled and shown in one spot, preferably with tags.

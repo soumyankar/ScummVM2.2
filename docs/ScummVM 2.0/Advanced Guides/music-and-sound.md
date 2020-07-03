@@ -1,9 +1,8 @@
 ---
 layout: default
 parent: Advanced Guides
-grand_parent: ScummVM Running Options
 title: Music & Sound
-nav_order: 4
+nav_order: 2
 ---
 
 # Music and Sound

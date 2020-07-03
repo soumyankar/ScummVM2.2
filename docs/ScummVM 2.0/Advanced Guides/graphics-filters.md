@@ -1,9 +1,8 @@
 ---
 layout: default
 parent: Advanced Guides
-grand_parent: ScummVM Running Options
 title: Graphics Filters
-nav_order: 3
+nav_order: 1
 ---
 
 # Graphics Filters
