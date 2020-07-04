@@ -37,6 +37,8 @@ ScummVM's documentation has a variety of issues. Discussed as below:
 	- **Multiple instances** exist for the same documentation. This leads to confusion among users, and they might feel lost trying to figure what's best for them.
 1. Highlighting
 	- ScummVM documentation has a plethora of **amazing functionalities that never make it to the reader's eyes**. ScummVM's features require better documenting and showcasing.
+1. Consolidating of ReadME
+	- The content on the **ReadME is disoriented**. Topics on the ReadME needs to be categorized roughly into documentation(Usage, Guides etc.) and notes(Supported Games, Bugs etc).
 
 
 

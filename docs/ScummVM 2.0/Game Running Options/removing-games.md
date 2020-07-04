@@ -1,7 +1,7 @@
 ---
 layout: default
 has_children: false
-parent: Game Running Options
+parent: Game Configuration
 title: Removing Games
 nav_order: 3
 ---

@@ -1,9 +1,9 @@
 ---
 layout: default
 has_children: false
-parent: Game Running Options
+parent: Game Configuration
 title: Custom Options
-nav_order: 4
+nav_order: 1
 ---
 
 # Custom Options

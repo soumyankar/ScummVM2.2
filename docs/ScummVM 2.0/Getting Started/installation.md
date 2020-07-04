@@ -1,13 +1,16 @@
 ---
 layout: default
-title: Installation
+title: ScummVM Installation
 parent: Quick Start
 nav_order: 2
 ---
 
-# Installation
+# ScummVM Installation
 
 After you have obtained ScummVM as described in the previous section, you will probably want to install it on your system. The steps required for that differ between the various operating systems. ScummVM recommends most users to download the pre-built binaries. Refer below for the OS you want to run ScummVM on.
+
+#### > Prefer compiling from source?  
+Check out [this guide]({{ site.baseurl }}{% link docs/ScummVM 2.0/Guides/compiling-from-source.md%})
 
 ### Amiga OS4
 

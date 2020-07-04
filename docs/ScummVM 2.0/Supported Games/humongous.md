@@ -1,0 +1,56 @@
+---
+layout: default
+parent: Supported Games
+has_children: false
+title: Humongous Entertainment
+nav_order: 8
+---
+
+# Humongous Entertainment (SCUMM) Games
+
+- Backyard Baseball	[baseball]
+- Backyard Baseball 2001	[baseball2001]
+- Backyard Baseball 2003	[baseball2003]
+- Backyard Football	[football]
+- Backyard Football 2002	[football2002]
+- Bear Stormin'	[brstorm]
+- Big Thinkers First Grade	[thinker1]
+- Big Thinkers Kindergarten	[thinkerk]
+- Blue's 123 Time Activities	[Blues123Time]
+- Blue's ABC Time Activities	[BluesABCTime]
+- Blue's Art Time Activities	[arttime]
+- Blue's Birthday Adventure	[BluesBirthday]
+- Blue's Reading Time Activities	[readtime]
+- Fatty Bear's Birthday Surprise	[fbear]
+- Fatty Bear's Fun Pack	[fbpack]
+- Freddi Fish 1: The Case of the Missing Kelp Seeds	[freddi]
+- Freddi Fish 2: The Case of the Haunted Schoolhouse	[freddi2]
+- Freddi Fish 3: The Case of the Stolen Conch Shell	[freddi3]
+- Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch	[freddi4]
+- Freddi Fish 5: The Case of the Creature of Coral Cove	[freddicove]
+- Freddi Fish and Luther's Maze Madness	[maze]
+- Freddi Fish and Luther's Water Worries	[water]
+- Let's Explore the Airport with Buzzy	[airport]
+- Let's Explore the Farm with Buzzy	[farm]
+- Let's Explore the Jungle with Buzzy	[jungle]
+- Pajama Sam: Games to Play on Any Day	[pjgames]
+- Pajama Sam 1: No Need to Hide When It's Dark Outside	[pajama]
+- Pajama Sam 2: Thunder and Lightning Aren't so Frightening	[pajama2]
+- Pajama Sam 3: You Are What You Eat From Your Head to Your Feet	[pajama3]
+- Pajama Sam's Lost & Found	[lost]
+- Pajama Sam's Sock Works	[socks]
+- Putt-Putt Enters the Race	[puttrace]
+- Putt-Putt Goes to the Moon	[puttmoon]
+- Putt-Putt Joins the Circus	[puttcircus]
+- Putt-Putt Joins the Parade	[puttputt]
+- Putt-Putt Saves the Zoo	[puttzoo]
+- Putt-Putt Travels Through Time	[putttime]
+- Putt-Putt and Pep's Balloon-O-Rama	[balloon]
+- Putt-Putt and Pep's Dog on a Stick	[dog]
+- Putt-Putt & Fatty Bear's Activity Pack	[activity]
+- Putt-Putt's Fun Pack	[funpack]
+- SPY Fox 1: Dry Cereal	[spyfox]
+- SPY Fox 2: Some Assembly Required	[spyfox2]
+- SPY Fox 3: Operation Ozone	[spyozon]
+- SPY Fox in Cheese Chase	[chase]
+- SPY Fox in Hold the Mustard	[mustard]
