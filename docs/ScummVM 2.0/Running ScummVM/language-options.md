@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Running ScummVM
+parent: Controls & Languages
 nav_order: 4
 has_children: false
 title: Language Options

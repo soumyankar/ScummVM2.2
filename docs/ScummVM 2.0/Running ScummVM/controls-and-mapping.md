@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Running ScummVM
+parent: Controls & Languages
 nav_order: 2
 has_children: false
 title: Controls & Mapping
@@ -16,4 +16,22 @@ The games supported by ScummVM are point-and-click games. This means that you ne
 
 ## Mapping
 
-TODO. (User_Manual/Appendix: Controls)
+1.	Caanoo
+2.	Dreamcast
+3.	GameCube
+4.	GP2X
+5.	GP2XWiz
+6.	iPhone / iPod Touch
+7.	LinuxMoto
+8.	Maemo
+9.	Nintendo 64
+10.	Nintendo DS
+11.	Nintendo Switch
+12.	OpenPandora
+13.	PlayStation 2
+14.	PlayStation 3
+15.	PSP
+16.	Vita
+17.	Symbian
+18.	Wii
+19.	Windows CE

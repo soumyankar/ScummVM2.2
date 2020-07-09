@@ -33,24 +33,10 @@ ScummVM allows us to override the defaults we have set up in the _Options_ menu.
 - Snapshots.
 
 ## Command Line Options
-TODO
+
 - Add information from User Manual/Appendix: Command Line Options
 - _Configuration keywords_
 - Boot-params.
 
 ## Config File
 TODO(Not sure if this can be done.)
-
-## Language Options
-The following language choices are available in the Game Tab.
-- List Games
-	- List Available languages.
-
-## Saved Files
-Saved games are by default put in the current directory on some platforms and preset directories on others. 
-
-The platforms that have a different default directory are:
-- OS1
-- OS2
-
-Read further at Guides/SaveFiles.md

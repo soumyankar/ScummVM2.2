@@ -20,8 +20,4 @@ Jump start into ScummVM by reading the [Installation Guides]({{ site.baseurl }}{
 You can find a full list of supported platforms and games on this [page]({{ site.baseurl }}{% link docs/ScummVM 2.0/Getting Started/requirements.md%}) .  
 Confused? Reach out to the experts on the [Discord Channel](https://discord.gg/5D8yTtF)  
 
-### Popular Articles
-TODO
-
-
 

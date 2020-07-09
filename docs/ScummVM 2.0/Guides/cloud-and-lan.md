@@ -17,5 +17,3 @@ ScummVM has two additional tabs: Cloud and LAN. This allows you to sync games an
 - LAN
 	- Running a web server
 	- Using webserver to upload/download files
-
-TODO!

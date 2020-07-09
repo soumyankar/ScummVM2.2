@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Running ScummVM
+title: Controls & Languages
 nav_order: 8
 has_children: true
 ---

@@ -18,6 +18,9 @@ The new documentation portal will not carry forward the mistakes previously made
 1. Better support
 	- **Refreshing the manuals**. The current manual is good but has become outdated. Individual sections of documentation need prime focus, such as: Running options, Configuration. These documents need to be dusted and filtered off of the unnecessary.
 	- **Scattered help**. ScummVM has documented specific commonly faced issues, but again, they are all over the place. For instance: FAQs exist on every document portal. They need to be compiled and shown in one spot, preferably with tags.
+1. Hierarchy improvement
+    - **Facilitating the information**. Certain sections of the documentation lack proper arrangment. For instance: command-line options. It should be divided into groups; General, configuration, save-files, music etc. I have tried to present an example [here]({{ site.baseurl }}{% link docs/ScummVM 2.0/ScummVM Running Options/command-line.md%})
+    - **Step-by-step approach**. Information should be supplied in a layered, top-down approach. The existing documentation has been broken down and divided into groups for a better outlook.
 1. **Brand new layout**
 	- I have compiled the entire sitemap of the new documentation portal. This will highlight all the significant changes between the existing user manual and my portal. **Relocation of information is vital** and one of the primary goals would be to keep resources where they should be.
 	- Divided section "_Using ScummVM_" into 2 parts - "_ScummVM Running Options" and "_Game Running Options_". This was done to improve readability and achieving the objective of assembling resources.

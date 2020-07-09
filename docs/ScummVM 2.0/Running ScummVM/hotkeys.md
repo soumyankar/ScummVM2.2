@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Running ScummVM
+parent: Controls & Languages
 nav_order: 2
 has_children: false
 title: Hotkeys
