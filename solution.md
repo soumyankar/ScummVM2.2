@@ -28,8 +28,9 @@ The new documentation portal will not carry forward the mistakes previously made
     - "_Game Running Options_" focuses on games, their issues, and related functions. 
 	- Added new sections:
 		- "_Guides_": Features of ScummVM that every beginner and intermediate user would be interested in. (Command line options, Installation guides etc. ). This section gives prime focus towards hands-on knowledge about ScummVM. Users will find it extremely helpful 
-		- "_Advanced Guides_": Features of ScummVM that only the experts use. (Compiling binaries, Music and Sound etc.) 
+		- "_Advanced Configuration_": Features of ScummVM that only the experts use. (Compiling binaries, Music and Sound etc.) 
 	- Removed section "_ScummVM Interface_". 
+    - Created separate sections to achieve better organising of docs.
 
 ## Proposed Sitemap
 
