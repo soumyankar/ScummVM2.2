@@ -24,7 +24,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
 end
-gem "just-the-docs"
+# gem "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 # gem "jekyll-remote-theme"
 # Performance-booster for watching directories on Windows
