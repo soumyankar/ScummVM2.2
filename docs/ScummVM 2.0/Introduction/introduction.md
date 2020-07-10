@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Landing Page
 nav_order: 4
 ---
 
@@ -13,9 +13,11 @@ ScummVM is special in it's own way. ScummVM allows you to play these games on sy
 ScummVM has a stable release and provides active support for a plethora of games. ScummVM is even being used commercially to re-release some of the supported games on modern platforms. This goes to show that several companies are happy with the quality of the software and how well it can run some of the games.
 
 ---
-Get going with the [Quick Start Guide]({{ site.baseurl }}{% link docs/ScummVM 2.0/Getting Started/installation.md%})
+Documentation, guides, and help topics to make sure that you get the most out of ScummVM!
 
+Get going with the [Quick Start Guide]({{ site.baseurl }}{% link docs/ScummVM 2.0/Getting Started/quick-start.md%})  
+Jump start into ScummVM by reading the [Installation Guides]({{ site.baseurl }}{% link docs/ScummVM 2.0/Getting Started/installation.md%}) 
+You can find a full list of supported platforms and games on this [page]({{ site.baseurl }}{% link docs/ScummVM 2.0/Getting Started/requirements.md%}) .  
+Confused? Reach out to the experts on the [Discord Channel](https://discord.gg/5D8yTtF)  
 
-
-You can find a full list of supported platforms and games on this [page](some_link). 
 

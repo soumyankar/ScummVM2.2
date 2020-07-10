@@ -17,5 +17,13 @@ I document my thought process on this page.
 - HOW-TOs: where should I put them? Are they guides? Or should a new section be dedicated for them?
 
 - Compiling from sources: Unsure. Need advice.
+	- Integrate wiki page?
+	- Listing all libraries; acquiring; installing
+	- Include information from ReadME/10.0-Compiling.
+	- Make Indiviual pages for installing like I did above?
+
+- HOW-TOs are on the wiki? Should they be integrated? It may be out of scope.
+
+- User Manual/Appendix: Tools - Maybe GUI, CLI should make it to the guide? What about the rest, compression tools? extraction tools?
 
 If you've read this far, maybe you'd like to take a look at [my poison.](https://steamcommunity.com/id/kakashi3011)

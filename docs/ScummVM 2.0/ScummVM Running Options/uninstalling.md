@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Uninstalling ScummVM
-parent: ScummVM Running Options
+parent: ScummVM Configuration
 nav_order: 5
 ---
 

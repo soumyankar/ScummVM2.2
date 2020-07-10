@@ -38,7 +38,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Just The DOcs
 
 #Just the docs for local environment!
-# theme: just-the-docs
+# theme: just-the-docs  
 
 # just the docs for gh-pages!
 remote_theme: pmarsceill/just-the-docs

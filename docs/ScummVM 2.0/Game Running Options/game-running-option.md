@@ -1,8 +1,8 @@
 ---
 layout: default
 has_children: true
-title: Game Running Options
-nav_order: 6
+title: Game Configuration
+nav_order: 7
 ---
 
-# Game Running Options
+# Game Configuration
